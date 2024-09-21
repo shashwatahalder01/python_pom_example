@@ -9,5 +9,5 @@ pycodestyle==2.7.0
 requests==2.25.1
 selenium==3.141.0
 toml==0.10.2
-urllib3==1.26.4
+urllib3==1.26.19
 webdriver-manager==3.4.0
